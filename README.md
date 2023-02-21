@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @binhdtrai213
 - 👀 I’m interested in play sport and listen music
-- 🌱 I’m currently learning in FPT 
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently learning in FPT (100% scholarship)
+- 💞️ I’m a FE and BE dev.
 - 📫 How to reach me https://www.facebook.com/DaoThienBinh/
 
 <!---
